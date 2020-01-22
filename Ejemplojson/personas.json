@@ -1,0 +1,6 @@
+"personas" : [
+  {"nombre": "Daniel", "nickname":"Twinzen"},
+  {"nombre": "Manue",   "nickname":"Manuelito"},
+  {"nombre": "Elpro", "nickname":"Pucio"},
+  {"nombre": "Benito",   "nickname":"Camelo"}
+];
